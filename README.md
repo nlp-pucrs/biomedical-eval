@@ -7,7 +7,7 @@ Intrinsic and Extrinsic Evaluation of the Quality ofBiomedical Embeddings in Dif
 
 **Keywords:** Biomedical Embeddings, MeSH thesaurus, Mul-tilanguage  Evaluation
 
-Full Text, BibText
+[Full Text](https://ieeexplore.ieee.org/document/9182968), [BibText](https://raw.githubusercontent.com/nlp-pucrs/biomedical-eval/master/franceschini2020intrinsic.bib)
 
 ### Online Experiments
 ##### Run our experiments online with Binder
